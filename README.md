@@ -1,4 +1,4 @@
-<img src="assets/banner-v4.svg" width="100%" alt="Adnane Serrai"/>
+<img src="assets/banner-v5.svg" width="100%" alt="Adnane Serrai"/>
 
 <a href="https://www.linkedin.com/in/adnaneserrai"><img src="assets/badge-linkedin.svg" height="32" alt="LinkedIn"/></a>
 <a href="mailto:adnaneserrai@gmail.com"><img src="assets/badge-mail.svg" height="32" alt="Mail"/></a>
