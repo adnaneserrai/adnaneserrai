@@ -1,8 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:0a0a0a&height=90&section=header&reversal=true" width="100%"/>
+
 <img src="assets/banner.svg" width="100%" alt="Adnane Serrai"/>
 
-<a href="https://www.linkedin.com/in/adnaneserrai"><img src="https://img.shields.io/badge/linkedin-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff1a1a" alt="LinkedIn"/></a>
-<a href="mailto:adnaneserrai@gmail.com"><img src="https://img.shields.io/badge/mail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff1a1a" alt="Mail"/></a>
-<a href="https://codesignai.ca"><img src="https://img.shields.io/badge/codesignai.ca-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=ff1a1a" alt="codesignai.ca"/></a>
+<a href="https://www.linkedin.com/in/adnaneserrai"><img src="assets/badge-linkedin.svg" height="32" alt="LinkedIn"/></a>
+<a href="mailto:adnaneserrai@gmail.com"><img src="assets/badge-mail.svg" height="32" alt="Mail"/></a>
+<a href="https://codesignai.ca"><img src="assets/badge-codesign.svg" height="32" alt="codesignai.ca"/></a>
 
 <br/>
 
@@ -73,7 +75,10 @@ Physical access → AS-REP Roasting → LSASS dump → Pass-the-Hash → DCSync.
 
 <div align="center">
 
-![streak](https://streak-stats.demolab.com/?user=adnaneserrai&hide_border=true&background=0a0a0a&ring=ff1a1a&fire=ff1a1a&currStreakNum=ececec&sideNums=ececec&currStreakLabel=ff1a1a&sideLabels=9a9a9a&dates=5f5f5f&stroke=2a2a2a)
+<img width="100%" src="https://streak-stats.demolab.com/?user=adnaneserrai&hide_border=true&background=0a0a0a&ring=ff1a1a&fire=ff1a1a&currStreakNum=ececec&sideNums=ececec&currStreakLabel=ff1a1a&sideLabels=9a9a9a&dates=5f5f5f&stroke=2a2a2a" alt="streak"/>
+
+<img width="49%" src="assets/stats.svg" alt="footprint"/>
+<img width="49%" src="assets/langs.svg" alt="written in"/>
 
 </div>
 
@@ -81,3 +86,5 @@ Physical access → AS-REP Roasting → LSASS dump → Pass-the-Hash → DCSync.
 
 B.Sc. Computer Science, Université de Poitiers (2024–2027).
 French, English C1, Spanish B1. Off the keyboard: BJJ, wrestling, climbing, guitar, piano.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:8b0000&height=110&section=footer" width="100%"/>
