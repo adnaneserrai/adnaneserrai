@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:0a0a0a&height=90&section=header&reversal=true" width="100%"/>
-
 <img src="assets/banner.svg" width="100%" alt="Adnane Serrai"/>
 
 <a href="https://www.linkedin.com/in/adnaneserrai"><img src="assets/badge-linkedin.svg" height="32" alt="LinkedIn"/></a>
