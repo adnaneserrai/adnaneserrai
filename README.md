@@ -8,7 +8,7 @@
 
 Final-year CS student, working on offensive and defensive security.
 Last summer I built the licensing and anti-tampering layer of a commercial
-analog-design tool at a Polytechnique Montréal startup. I'm still on it part-time, remotely.
+analog-design tool at a Polytechnique Montréal startup ([write-up](https://github.com/adnaneserrai/codesignai-internship)). I'm still on it part-time, remotely.
 
 Looking for a **3-month security internship, April to July 2027**. Open to anywhere.
 
@@ -20,7 +20,8 @@ Looking for a **3-month security internship, April to July 2027**. Open to anywh
         (merkle-tree hashing + watchdog thread)
       - license server, FastAPI / PostgreSQL, ES256-signed JWTs
         -> sole developer, in production
-      - SHA-256 verified forced updates, admin console with audit logs
+      - content-addressed delta updates, SHA-256 verified,
+        admin console with audit logs
       - red-team style testing of the whole protection chain
 
 2025  Le Lobby                                    infrastructure & web
@@ -32,6 +33,9 @@ Looking for a **3-month security internship, April to July 2027**. Open to anywh
 ```
 
 ### projects
+
+**[codesignai-internship](https://github.com/adnaneserrai/codesignai-internship)**: write-up of the CoDesign AI internship. License server, in-memory integrity checks, delta updates, security POC. Architecture and lessons learned, no product code.
+<sub>`Python` `FastAPI` `PostgreSQL` `C` `PySide6` `PyInstaller`</sub>
 
 **[CyberLab-2026](https://github.com/adnaneserrai/CyberLab-2026)**: a 3-VM Active Directory lab, deployed with PowerShell, then attacked end to end.
 Physical access → AS-REP Roasting → LSASS dump → Pass-the-Hash → DCSync.
