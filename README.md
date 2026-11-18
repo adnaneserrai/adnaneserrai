@@ -26,11 +26,25 @@ Looking for a **3-month security internship, April to July 2027**. Open to anywh
       - red-team style testing of the whole protection chain
 
 2025  Le Lobby                                    infrastructure & web
-      - Active Directory + GPOs across 20 workstations
-      - Laravel REST API and admin panel the owners run the place with
+      gaming café, Poitiers                       (May - Jul)
+      - Windows Server 2022 domain controller: AD DS, DNS, DHCP
+      - 22 workstations joined to the domain, OU layout,
+        separate admin accounts
+      - GPOs to lock down client PCs: AppLocker allow-list,
+        logoff cleanup script, controlled Windows Update
+      - guest Wi-Fi isolated from the workstation network
+      - Laravel / MySQL REST API + admin panel: gaming sessions
+        and pricing, loyalty credit, stock, bookings, tournaments
+        -> the two owners run the place with it every day
+      - PowerShell agent on each PC reporting status to the API
 
-2024  Iwit Systems                                IT support
-      - 100+ tickets closed in a newly launched monitoring team
+2024  Iwit Systems                                IT support (N1)
+      managed IT provider, Toulouse               (Jul - Aug)
+      - joined a newly launched monitoring & support team
+      - 100+ tickets resolved: AD / Microsoft 365 accounts,
+        Outlook, VPN, network printers and shares
+      - daily RMM alert triage and client backup checks
+      - PC provisioning, on-site visits, small PowerShell scripts
 ```
 
 ### projects
@@ -69,9 +83,9 @@ Physical access → AS-REP Roasting → LSASS dump → Pass-the-Hash → DCSync.
 |---|---|
 | offensive | Active Directory, Kerberos, Impacket, NetExec, Nmap, Burp Suite, Kali |
 | defense & RE | eBPF/XDP, Wireshark, x86 reverse engineering, x64dbg |
-| systems | Linux, Windows Server, GPO, Docker, VMware, Git |
+| systems | Linux, Windows Server, Active Directory, GPO, AppLocker, Microsoft 365, Docker, VMware, Git |
 | languages | C, C++, Python, PowerShell, SQL, PHP, JavaScript, OCaml |
-| frameworks | FastAPI, Laravel, Symfony, PostgreSQL |
+| frameworks | FastAPI, Laravel, Symfony, Tailwind, PostgreSQL, MySQL |
 | practice | Root-Me (top 1000), TryHackMe, Hack The Box |
 
 ### activity
