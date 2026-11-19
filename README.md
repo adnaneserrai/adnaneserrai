@@ -2,6 +2,7 @@
 
 <a href="https://www.linkedin.com/in/adnaneserrai"><img src="assets/badge-linkedin.svg" height="32" alt="LinkedIn"/></a>
 <a href="mailto:adnaneserrai@gmail.com"><img src="assets/badge-mail.svg" height="32" alt="Mail"/></a>
+<a href="https://adnaneserrai.github.io/"><img src="assets/badge-portfolio.svg" height="32" alt="Portfolio"/></a>
 <a href="https://codesignai.ca"><img src="assets/badge-codesign.svg" height="32" alt="codesignai.ca"/></a>
 
 <br/>
@@ -11,6 +12,8 @@ Last summer I built the licensing and anti-tampering layer of a commercial
 analog-design tool at CoDesign AI, a startup affiliated with Polytechnique Montréal ([write-up](https://github.com/adnaneserrai/codesignai-internship)). I'm still on it part-time, remotely.
 
 Looking for a **3-month security internship, April to July 2027**. Open to anywhere.
+
+Portfolio: **[adnaneserrai.github.io](https://adnaneserrai.github.io/)**, also as a [3D city you can walk through](https://adnaneserrai.github.io/3d/).
 
 ### experience
 

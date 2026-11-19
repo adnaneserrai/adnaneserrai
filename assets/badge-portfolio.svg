@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="32" viewBox="0 0 134 32">
+<rect x=".5" y=".5" width="133" height="31" rx="4" fill="#0a0a0a" stroke="#2a2a2a"/>
+<g transform="translate(12 8)" fill="none" stroke="#ff1a1a" stroke-width="1.6" stroke-linejoin="round"><path d="M8 1l6.5 3.6v6.8L8 15 1.5 11.4V4.6z"/><path d="M1.5 4.6L8 8.2l6.5-3.6M8 8.2V15"/></g>
+<text x="38" y="21" font-family="JetBrains Mono,Consolas,monospace" font-size="13" font-weight="700" letter-spacing="1" fill="#ececec">PORTFOLIO</text>
+</svg>
