@@ -13,7 +13,7 @@ analog-design tool at CoDesign AI, a startup affiliated with Polytechnique Montr
 
 Looking for a **3-month security internship, April to July 2027**. Open to anywhere.
 
-Portfolio: **[adnaneserrai.github.io](https://adnaneserrai.github.io/)**, also as a [3D city you can walk through](https://adnaneserrai.github.io/3d/).
+Portfolio: **[adnaneserrai.github.io](https://adnaneserrai.github.io/)**, a 3D city you can walk through.
 
 ### experience
 
